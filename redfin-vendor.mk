@@ -102,7 +102,6 @@ PRODUCT_PACKAGES += \
     atfwd \
     com.qualcomm.qti.services.secureui \
     datastatusnotification \
-    uceShimService \
     CarrierSetup \
     ConnectivityThermalPowerManager \
     EuiccGoogleOverlay \
